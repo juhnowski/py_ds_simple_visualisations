@@ -9,9 +9,9 @@ plt.ylabel("Число")
 
 plt.ticklabel_format(useOffset=False)
 # Дезориентирующая ось
-plt.axis([2012.5, 2014.5, 499, 506])
-plt.title("Огромный прирост")
-plt.show()
+#plt.axis([2012.5, 2014.5, 499, 506])
+#plt.title("Огромный прирост")
+#plt.show()
 
 plt.axis([2012.5, 2014.5, 100, 550])
 plt.title("Больше не такой огромный")
